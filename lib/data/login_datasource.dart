@@ -15,7 +15,7 @@ class LoginDataSource {
     var data = {
       'grant_type': 'password',
       'client_id': '1',
-      'client_secret': 'MZjPhxyXy8FIVDjSSdb2gFRIsvE594D4RAavNEjl',
+      'client_secret': '',
       'username': username,
       'password': password,
       'scope': ''
